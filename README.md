@@ -90,4 +90,4 @@ The notebook will:
 
 Sathyadharini Srinivasan  
 University of Florida — M.S. Artificial Intelligence  
-Email: sathyadharini@ufl.edu
+Email: srinivassathyadh@ufl.edu
